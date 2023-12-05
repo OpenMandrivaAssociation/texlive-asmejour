@@ -1,6 +1,6 @@
 Name:		texlive-asmejour
-Version:	63736
-Release:	2
+Version:	68629
+Release:	1
 Summary:	A template for ASME journal papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asmejour
