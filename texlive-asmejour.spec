@@ -1,5 +1,5 @@
 Name:		texlive-asmejour
-Version:	68629
+Version:	69722
 Release:	1
 Summary:	A template for ASME journal papers
 Group:		Publishing
