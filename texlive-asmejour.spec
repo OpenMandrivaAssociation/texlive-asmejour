@@ -3,7 +3,7 @@ Version:	71903
 Release:	1
 Summary:	A template for ASME journal papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asmejour
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/asmejour
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asmejour.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asmejour.doc.r%{version}.tar.xz
